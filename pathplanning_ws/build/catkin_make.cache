@@ -1,0 +1,2 @@
+rospathplanning_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ais/Workspaces/pathplanning_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ais/Workspaces/pathplanning_ws/install -G Unix Makefiles
